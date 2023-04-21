@@ -1,4 +1,4 @@
-# Heriseon-Refactoring-challenge
+# Horiseon-Refactoring-challenge
 
 ## Project description
 
