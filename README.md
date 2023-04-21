@@ -20,7 +20,7 @@ I was able to gain experience refactoring and consolidating HTML and CSS, code i
 
 ## Installation
 
-First open the Github repository: https://github.com/{deepsnow6}/{refactoring-challenge}
+First open the Github repository: https://github.com/deepsnow6/Horiseon-Refactoring-challenge
 Then select "Code" then "Download ZIP" to download a compressed ZIP folder on your local machine that contains the project files.
 Next unzip the file and extract the contents of the folder.
 Lastly to view the application in your preferred web browser, launch the "index.html" file.
