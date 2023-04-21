@@ -1,5 +1,10 @@
 # Horiseon-Refactoring-challenge
 
+## Link to live application: https://deepsnow6.github.io/Horiseon-Refactoring-challenge/
+
+![Screen Capture 001 - Horiseon_ Digital Marketing Solutions - deepsnow6 github io](https://user-images.githubusercontent.com/130337959/233544910-a6e18da9-fc6b-4ddc-9b83-4b0f3961935e.jpg)
+
+
 ## Project description
 
 This is a refactored codebase for a static website belonging to Horiseon, which serves to promote digital marketing solutions. The original HTML and CSS code was functional but wasn't optimized for accessibility and efficiency purposes. I refactored the code with the purpose of eliminating these issues while also maintaining the original appearance and functionality of the original website.
